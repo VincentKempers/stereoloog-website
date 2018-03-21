@@ -11,5 +11,5 @@ Things what would we like to have
 - [x] making a repository (NOT SO LATE AM I!?)
 
 ## The music nerds
-[@vincentkempers](https://github.com/vincentkempers)
-[@Sam-Guliker](https://github.com/Sam-Guliker)
+* [@vincentkempers](https://github.com/vincentkempers)
+* [@Sam-Guliker](https://github.com/Sam-Guliker)
